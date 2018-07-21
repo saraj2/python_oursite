@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "/home/ibra/mysite/oursite"
+		},
+		{
+			"path": "oursite"
 		}
 	]
 }
